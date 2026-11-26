@@ -1,6 +1,8 @@
 # One Line to Your Younger Self
 
-[![make.fun](https://img.shields.io/badge/make.fun-u--boothlord--one--line--to--your--younger--self--22e97f76-blue)](https://make.fun/competitions/u-boothlord-one-line-to-your-younger-self-22e97f76)
+[![make.fun · u-boothlord-one-line-to-your-younger-self-22e97f76](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
+[![rank](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/Naivexyz/one-line-to-younger-self/rank.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
+[![reward](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/Naivexyz/one-line-to-younger-self/reward.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
 
 Entry for the make.fun competition **One Line to Your Younger Self**
 (`u-boothlord-one-line-to-your-younger-self-22e97f76`).
